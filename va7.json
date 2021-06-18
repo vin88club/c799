@@ -1,12 +1,4 @@
 {
-        "levelData": {
-                "packageUrl" : "https://dlvin24h.club/mobile/",
-                "remoteManifestUrl" : "https://dlvin24h.club/mobile/project.manifest",
-                "remoteVersionUrl" : "https://dlvin24h.club/mobile/version.manifest",
-                "version" : "1.0.0",
-                "assets" : {},
-                "searchPaths" : []
-        },
         "1": { "guessTime":15, "requiredScore":30, "noCol":6, "noRow":6, "scale":0.8},
         "2": { "guessTime":15, "requiredScore":50, "noCol":6, "noRow":6, "scale":0.8},
         "3": { "guessTime":15, "requiredScore":100, "noCol":6, "noRow":6, "scale":0.8},
